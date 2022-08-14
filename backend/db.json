@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Macbook Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Iphone 13 Pro",
+      "price": 6500
+    },
+    {
+      "name": "Apple watch",
+      "price": "4500.00",
+      "id": 4
+    },
+    {
+      "name": "Fone",
+      "price": "160.00",
+      "id": 5
+    },
+    {
+      "name": "Tv",
+      "price": "1500",
+      "id": 6
+    },
+    {
+      "name": "Relogio",
+      "price": "1500",
+      "id": 8
+    }
+  ]
+}
